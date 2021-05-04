@@ -16,6 +16,20 @@ Wallet is an automatic expense tracker app that syncs with bank accounts. I desi
 
 # Inspiration
 
+## 1. Wealthsimple - https://www.wealthsimple.com/en-ca/
+
+Wealthsimple was the inspiration for the design of my Wallet app. I love how simple, yet efficient the webpage and mobile app designs are. It challenged me to work with charting tools and connecting to banking institutions.
+
+## 2. Next.js - https://github.com/vercel/next.js/
+
+Next.js is a popular development framework for React. The simplicity and powerful tools available for development inspired me to use the framework in all of my personal projects. The framework cuts through the clutter and lets developers focus on what really matters, making development faster and more fun.
+
+## 3. TailwindCSS - https://github.com/tailwindlabs/tailwindcss
+
+TailwindCSS is an upcoming CSS framework. Unlike many others out there, Tailwind does not provide out of the box components like buttons, inputs, etc. It is up to the developer to still create those. However, the use of their atomized CSS classes make it really easy and fast to develop beautiful layouts. It inspired me enough to adopt it early on and I'm having a lot of fun with it.
+
 # Focus
+
+
 
 # Code Challenge
