@@ -30,7 +30,7 @@ TailwindCSS is an upcoming CSS framework. Unlike many others out there, Tailwind
 
 # Focus
 
-
+I would want to get better at interacting with clients, as well as the internal design team to transform our client's goals and dreams into reality. I would spend my time talking to clients to make sure I understand their requirements, working closely with the design team to make sure we are developing a product that our clients will love and getting constant feedback from them.
 
 # Code Challenge
 https://codesandbox.io/s/2021-internship-exercise-menu-00ob1?file=/index.html
